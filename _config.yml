@@ -1,14 +1,14 @@
-url: http://kirbyt.github.io
-baseurl: /timeline-jekyll-theme
+url: http://nquirk.github.io/timelinesite
+baseurl: 
 
 # Site Settings
-title: Timeline
+title: Nicholas Q
 description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
 keywords: "jekyll, theme"
 google-tracking-id:
 
 # Career Settings
 # Default career thumbnail image.
-career-img: "img/timeline/default.jpg"
+career-img: "img/intro-bg.JPG"
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]
