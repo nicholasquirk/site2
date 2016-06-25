@@ -1,7 +1,6 @@
 url: https://nquirk.github.io/timelinesite/
 baseurl: /timelinesite 
 
-# Site Settings
 title: Nicholas Q
 description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
 keywords: "jekyll, theme"
@@ -9,6 +8,6 @@ google-tracking-id:
 
 # Career Settings
 # Default career thumbnail image.
-career-img: "/img/timeline/default.JPG"
+career-img: "img/timeline/default.JPG"
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]
