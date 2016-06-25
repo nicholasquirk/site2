@@ -2,6 +2,6 @@
 layout: null
 title: May 2012 - January 2013
 subtitle:
-image: "img/timeline/2.jpg"
+image: "img/timeline/2.JPG"
 ---
 Ex mei electram eloquentiam. An torquatos intellegebat pro, solum liber saepe et eos. Postea essent meliore ne mei, brute referrentur et eum, cum ei oblique tincidunt definitiones.
