@@ -1,0 +1,8 @@
+---
+layout: null
+title: July 2011 - May 2012
+subtitle:
+image: "img/timeline/trhs.png"
+---
+
+Graduated from Timberlane Regional High School in Plaistow, NH. Class rank: 1 of 380.

@@ -1,6 +1,6 @@
 ---
 layout: null
-title: May 2012 - January 2013
+title: Summer 2014
 subtitle:
 image: "img/timeline/joppa.jpg"
 ---

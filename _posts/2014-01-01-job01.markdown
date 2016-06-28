@@ -1,7 +1,7 @@
 ---
 layout: null
-title: June 2016 - Present
+title: January 2013 - May 2015
 subtitle:
-image: "img/timeline/citlogo.png"
+image: "img/timeline/gphil.jpg"
 ---
-SuperSpec
+Philosophy Department Office Assistant

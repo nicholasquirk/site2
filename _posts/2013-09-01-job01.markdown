@@ -1,0 +1,7 @@
+---
+layout: null
+title: June 2013
+subtitle:
+image: "img/timeline/georgetownlogo.png"
+---
+Matriculated to Georgetown University in Washington, DC.
