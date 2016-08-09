@@ -1,7 +1,7 @@
 ---
 layout: null
-title: January 2013 - May 2015
+title: January 2014-May 2015
 subtitle:
 image: "img/timeline/gphil.jpg"
 ---
-Philosophy Department Office Assistant
+Worked as an office assistant in the Georgetown Department of Philosophy

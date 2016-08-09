@@ -4,4 +4,4 @@ title: Summer 2014
 subtitle:
 image: "img/timeline/joppa.jpg"
 ---
-Summer Education Intern
+Spent the summer of freshman year volunteering for the Massachusetts Audobon Society and leading a kids' coastal ecology program in Newburyport, MA.

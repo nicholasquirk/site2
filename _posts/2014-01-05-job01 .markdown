@@ -4,4 +4,4 @@ title: January 2014 - Current
 subtitle:
 image: "img/timeline/gnulab.jpg"
 ---
-Georgetown University Micro and Nano Technology Lab, Barbara Lab
+Began physics research at the Georgetown University Nano and Micro Technology Lab and the lab of Dr. Paola Barbara.

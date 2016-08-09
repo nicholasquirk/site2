@@ -4,4 +4,4 @@ title: September 2015 - December 2016
 subtitle:
 image: "img/timeline/cernlogo.jpg"
 ---
-ATLAS Phase-II Upgrade
+Worked with the University of Toronto on the Phase-II Upgrade of the ATLAS detector at CERN. Performed radiation analysis of the read-out electronics for the silicon strip detector upgrade. Part of the University of Michigan research semester at CERN program. Advised by Dr. Richard Teuscher, University of Toronto.

@@ -4,4 +4,6 @@ title: Summer 2015
 subtitle:
 image: "img/timeline/devices.jpg"
 ---
-Hichwa Family Fellowship Recipient
+Was awarded the Physics Department's 
+<a href="https://physics.georgetown.edu/news/2015/4/17/Summer-2015-Hichwa-Fellowship" target="_blank">Hichwa Family Fellowship</a>
+ for studying graphene nanoelectronics in Dr. Paola's lab.
