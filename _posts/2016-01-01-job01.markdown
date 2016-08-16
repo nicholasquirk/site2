@@ -4,4 +4,4 @@ title: June 2016 - Present
 subtitle:
 image: "img/timeline/citlogo.png"
 ---
-Worked on GPU-accelerated spectral readout of SuperSpec, a novel on-chip microwave spectrometer being designed by the Caltech sub-mm cosmology group. Advised by Dr. C. Matt Bradford, Caltech/JPL.
+Worked on GPU-accelerated spectral readout for SuperSpec, a novel on-chip microwave spectrometer being designed by the Caltech sub-mm astronomy group. Advised by Dr. C. Matt Bradford, Caltech/JPL.
