@@ -1,6 +1,6 @@
 ---
 layout: null
-title: June 2016 - Present
+title: Summer 2016
 subtitle:
 image: "img/timeline/citlogo.png"
 ---
